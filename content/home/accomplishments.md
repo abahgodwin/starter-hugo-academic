@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.credly.com/badges fd0a5feb-a3ab-4df2-9680-e0e226a41238?source=linked_in_profile
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2022-01-25"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Amazon Web Services (AWS)
+  organization_url: https://www.aws.amazon.com
+  title: "AWS Certified Cloud Practitioner"
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.credly.com/badges/28d90724-2587-42bd-87c6-21c0df80203d?source=linked_in_profile
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: "2021-06-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Google
+  organization_url: https://www.google.org
+  title: "Google Data Analytics Certificate"
+  url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/specialization/5R9LRDYHY8C5
+  date_end: ""
+  date_start: "2021-10-01"
+  description: ""
+  organization: IBM
+  organization_url: https://www.ibm.com
+  title: 'Certified Data Analyst'
   url: ""
 
 design:

@@ -9,25 +9,37 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Technical Skills
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: "Proficient User"
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: "Expert User"
+  icon: file-spreadsheet
+  icon_pack: fab
+  name: Excel
+- description: "Advanced User"
+  icon: database
+  icon_pack: fab
+  name: SQL & NoSQL
+- description: "Specialist user"
+  icon: cloud-arrow-up
+  icon_pack: fab
+  name: Cloud Computing
+- description: "Competent User"
+  icon: Python
+  icon_pack: fab
+  name: Python
+- description: "Expert"
+  icon: presentation-screen
+  icon_pack: fab
+  name: PowerBI
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
