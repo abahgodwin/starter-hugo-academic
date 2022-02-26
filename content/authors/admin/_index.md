@@ -49,7 +49,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/abahgodwin
-
+- icon: kaggle
+  icon_pack: fab
+  link: https://www.kaggle.com/godwinabah
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
@@ -58,7 +60,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "abah.godwin@outlook.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

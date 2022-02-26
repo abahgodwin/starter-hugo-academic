@@ -36,7 +36,7 @@ feature:
   icon: Python
   icon_pack: fab
   name: Python
-- description: "Expert"
+- description: "Expert User"
   icon: presentation-screen
   icon_pack: fab
   name: PowerBI
