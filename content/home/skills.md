@@ -16,27 +16,27 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: "Proficient User"
+- description: "Proficient"
   icon: r-project
   icon_pack: fab
   name: R
-- description: "Expert User"
+- description: "Expert"
   icon: excel
   icon_pack: custom
   name: Excel
-- description: "Advanced User"
+- description: "Advanced"
   icon: database
   icon_pack: custom
   name: SQL & NoSQL
-- description: "Specialist user"
+- description: "Specialist"
   icon: cloud
   icon_pack: custom
   name: Cloud Computing
-- description: "Competent User"
+- description: "Basic"
   icon: Python
   icon_pack: custom
-  name: python
-- description: "Expert User"
+  name: Python
+- description: "Expert"
   icon: bi
   icon_pack: custom
   name: PowerBI
