@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.credly.com/badges fd0a5feb-a3ab-4df2-9680-e0e226a41238?source=linked_in_profile
+- certificate_url: https://www.credly.com/badges/fd0a5feb-a3ab-4df2-9680-e0e226a41238/public_url
   date_end: ""
   date_start: "2022-01-25"
   description: ""
