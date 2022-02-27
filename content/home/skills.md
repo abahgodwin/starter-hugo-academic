@@ -33,7 +33,7 @@ feature:
   icon_pack: custom
   name: Cloud Computing
 - description: "Basic"
-  icon: Python
+  icon: python
   icon_pack: custom
   name: Python
 - description: "Expert"
