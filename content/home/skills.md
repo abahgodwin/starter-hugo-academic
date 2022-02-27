@@ -21,29 +21,30 @@ feature:
   icon_pack: fab
   name: R
 - description: "Expert User"
-  icon: file-spreadsheet
-  icon_pack: fab
+  icon: excel
+  icon_pack: custom
   name: Excel
 - description: "Advanced User"
   icon: database
-  icon_pack: fab
+  icon_pack: custom
   name: SQL & NoSQL
 - description: "Specialist user"
-  icon: cloud-arrow-up
-  icon_pack: fab
+  icon: cloud
+  icon_pack: custom
   name: Cloud Computing
 - description: "Competent User"
   icon: Python
-  icon_pack: fab
-  name: Python
+  icon_pack: custom
+  name: python
 - description: "Expert User"
-  icon: presentation-screen
-  icon_pack: fab
+  icon: bi
+  icon_pack: custom
   name: PowerBI
-- icon: excel
-icon_pack: custom
-name: Surfing
-description: "90%"
+
+#- icon: excel
+#icon_pack: custom
+#name: Surfing
+#description: "90%"
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

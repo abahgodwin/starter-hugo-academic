@@ -28,9 +28,8 @@ content:
   email: abah.godwin@outlook.com
   phone: (234) 07062589109
   address:
-    city: Ikoyi
-    region: Lagos
-    postcode: '101233'
+    city: Lagos
+    region: Nigeria
     country: Nigeria
     country_code: NG
 
